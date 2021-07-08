@@ -1,0 +1,57 @@
+.card-title.text-center{
+    padding-bottom: 9%;
+}
+
+em {
+    color:rgb(21,101,192);
+  }
+
+
+.nav-wrapper{
+    background-color: whitesmoke;
+}
+
+.fa-pencil{
+    color:#544b8ac2;
+}
+
+body{
+    background-color: #aaaaaa6b;
+}
+
+                
+                
+.brand-logo {
+    color:black;
+}
+
+.fa-pencil:after{
+    padding-left:5px;
+    content: "\f040"!important;
+    color: blue;
+}
+
+.fa-pencil:before{
+    display:none!important
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.card-title.text-center{
+    padding:5%;
+}
+
+.card{
+    border-radius: 25px;
+}
+
+body .active { font-size: 110%; }
+
+input{
+    padding: 5px;
+}

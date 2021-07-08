@@ -1,0 +1,19 @@
+{
+    "name": "Wallet",
+    "short_name":"Wallet Bank",
+    "start_url": "/index.html",
+    "background_color":"#DD8808",
+    "theme_color": "#DD8808",
+    "orientation": "portrait-primary",
+    "display": "standalone",
+    "icons":[
+        {
+            "src": "/Wallet//btc.png",
+            "type":"image/png",
+            "sizes": "225x225"
+
+        }
+    
+    ]
+
+}
